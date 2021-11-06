@@ -1,4 +1,8 @@
 # Hey! I'm Peerachan, welcome to my Github 👋
+
+![งานออกแบบที่ไม่มีชื่อ](https://user-images.githubusercontent.com/93777662/140597681-0eaf13d8-3c34-41ea-b1c8-7cc20fff8f1f.gif)
+
+
 - 👋 Hi, I’m **Peerachan Mengthalek**
 - 👀 I’m interested in **youtuber**
 - 🌱 I’m currently learning **canva,python,github**
